@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/riskyamaliaharis/covid-track/static/css/main.b9d44b6f.chunk.css",
+    "main.js": "/riskyamaliaharis/covid-track/static/js/main.59b896bd.chunk.js",
+    "main.js.map": "/riskyamaliaharis/covid-track/static/js/main.59b896bd.chunk.js.map",
+    "runtime-main.js": "/riskyamaliaharis/covid-track/static/js/runtime-main.73c4cb17.js",
+    "runtime-main.js.map": "/riskyamaliaharis/covid-track/static/js/runtime-main.73c4cb17.js.map",
+    "static/js/2.4c4ed881.chunk.js": "/riskyamaliaharis/covid-track/static/js/2.4c4ed881.chunk.js",
+    "static/js/2.4c4ed881.chunk.js.map": "/riskyamaliaharis/covid-track/static/js/2.4c4ed881.chunk.js.map",
+    "static/js/3.5e572322.chunk.js": "/riskyamaliaharis/covid-track/static/js/3.5e572322.chunk.js",
+    "static/js/3.5e572322.chunk.js.map": "/riskyamaliaharis/covid-track/static/js/3.5e572322.chunk.js.map",
+    "index.html": "/riskyamaliaharis/covid-track/index.html",
+    "static/css/main.b9d44b6f.chunk.css.map": "/riskyamaliaharis/covid-track/static/css/main.b9d44b6f.chunk.css.map",
+    "static/js/2.4c4ed881.chunk.js.LICENSE.txt": "/riskyamaliaharis/covid-track/static/js/2.4c4ed881.chunk.js.LICENSE.txt",
+    "static/media/head.37a64eb1.png": "/riskyamaliaharis/covid-track/static/media/head.37a64eb1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73c4cb17.js",
+    "static/js/2.4c4ed881.chunk.js",
+    "static/css/main.b9d44b6f.chunk.css",
+    "static/js/main.59b896bd.chunk.js"
+  ]
+}
