@@ -1,0 +1,20 @@
+.container {
+  display: flex;
+  align-items: center;
+  margin: 30px 0;
+}
+
+.confirmed {
+  color: rgb(181, 100, 250) !important;
+  border-bottom: 15px solid rgba(181, 100, 250, 0.9);
+}
+
+.recovered {
+  color: rgb(4, 193, 185) !important;
+  border-bottom: 15px solid rgba(4, 193, 185, 0.9);
+}
+
+.death {
+  color: rgb(228, 179, 172) !important;
+  border-bottom: 15px solid rgba(228, 179, 172, 0.9);
+}
